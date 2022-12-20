@@ -1,11 +1,11 @@
 <h1 align="center">Howdy! 👋 My name is Aditya Atul Chavan</h1>
 <h3 align="center">Aiming to learn more and more of what ruby on rails has to provide</h3>
 
-<img align="right" alt="coding" width="250" src="https://media.tenor.com/zYNc4_kPKDsAAAAM/hive-cats.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityachavan2681&label=Profile%20views&color=0e75b6&style=flat" alt="adityachavan2681" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityachavan2681" alt="adityachavan2681" /></a> </p>
+
+<img align="right" alt="Programming" width="250" src="https://media.tenor.com/zYNc4_kPKDsAAAAM/hive-cats.gif">
 
 - 🌱 I’m currently learning **React, Vue, Gitlab, etcetra**
 
