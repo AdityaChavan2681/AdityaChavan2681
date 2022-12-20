@@ -1,7 +1,7 @@
 <h1 align="center">Howdy! 👋 My name is Aditya Atul Chavan</h1>
 <h3 align="center">Aiming to learn more and more of what ruby on rails has to provide</h3>
 
-<img align="right" alt="coding" width="300" src="https://media.tenor.com/zYNc4_kPKDsAAAAM/hive-cats.gif">
+<img align="right" alt="coding" width="250" src="https://media.tenor.com/zYNc4_kPKDsAAAAM/hive-cats.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityachavan2681&label=Profile%20views&color=0e75b6&style=flat" alt="adityachavan2681" /> </p>
 
