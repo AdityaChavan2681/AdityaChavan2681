@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AdityaChavan2681](https://github.com/AdityaChavan2681)
 
-- 💬 Ask me about **Ruby on rails and the tech associated with it**
-
 - 📫 How to reach me **chavanaditya0000@gmail.com**
 
 - ⚡ Fun fact **Talk to me, It's free 💯 😄**
