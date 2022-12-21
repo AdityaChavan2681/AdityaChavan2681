@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, Vue, Gitlab, etcetra**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AdityaChavan2681](https://github.com/AdityaChavan2681)
+- 👨‍💻 All of my sample projects are available at [https://github.com/AdityaChavan2681](https://github.com/AdityaChavan2681)
 
 - 📫 How to reach me **chavanaditya0000@gmail.com**
 
