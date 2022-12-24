@@ -7,13 +7,7 @@
 
 <img align="right" alt="Programming" width="250" src="https://media.tenor.com/zYNc4_kPKDsAAAAM/hive-cats.gif">
 
-- 🌱 I’m currently learning **React, Vue, Gitlab, etcetra**
-
-- 👨‍💻 All of my sample projects are available at [https://github.com/AdityaChavan2681](https://github.com/AdityaChavan2681)
-
-- 📫 How to reach me **chavanaditya0000@gmail.com**
-
-- ⚡ Fun fact **Talk to me, It's free 💯 😄**
+At the moment looking forward to learn **Resque, Vue, Angular**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
