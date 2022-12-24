@@ -1,8 +1,6 @@
 <h1 align="center">Howdy! 👋 Aditya here</h1>
 <h3 align="center">Aiming to learn new stacks and necessities to be precise in building projects</h3>
 
-<img align="right" alt="Programming" width="250" src="https://media.tenor.com/zYNc4_kPKDsAAAAM/hive-cats.gif">
-
 At the moment looking forward to learn **Resque, Vue, Angular**
 
 <h3 align="left">Languages and Tools:</h3>
