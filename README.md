@@ -1,8 +1,6 @@
 <h1 align="center">Howdy! 👋 Aditya here</h1>
 <h3 align="center">Aiming to learn new stacks and necessities to be precise in building projects</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityachavan2681&label=Profile%20views&color=0e75b6&style=flat" alt="adityachavan2681" /> </p>
-
 <img align="right" alt="Programming" width="250" src="https://media.tenor.com/zYNc4_kPKDsAAAAM/hive-cats.gif">
 
 At the moment looking forward to learn **Resque, Vue, Angular**
