@@ -1,5 +1,5 @@
-<h1 align="center">Howdy! 👋 My name is Aditya</h1>
-<h3 align="center">Aiming to learn more and more of what ruby on rails has to provide</h3>
+<h1 align="center">Howdy! 👋 Aditya here</h1>
+<h3 align="center">Aiming to learn new stacks and necessities to be precise in building projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityachavan2681&label=Profile%20views&color=0e75b6&style=flat" alt="adityachavan2681" /> </p>
 
