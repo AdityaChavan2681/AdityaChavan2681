@@ -60,5 +60,4 @@ Thanks for visiting—let’s build something brilliant together ⚙️💡
 
 ### 📬 Connect
 
-- [LinkedIn](https://www.linkedin.com/in/aditya-atul-chavan-59bb06157)  
-- 🧾 [Download Résumé](https://yourhostedlink.com/resume.pdf) <!-- Replace with actual link -->
+- [LinkedIn](https://www.linkedin.com/in/adityaatulchavan/)  
