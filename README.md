@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Aditya, A Support Engineer & Full Stack Rails Developer</h1>
+<h1 align="center">👋 Hi I'm Aditya, A Support Engineer & Full Stack Rails Developer</h1>
 
 <p align="center">
 💬 Rails + Support = Systems That Scale with Empathy<br>
