@@ -6,8 +6,15 @@
 </p>
 
 <p align="center">
+  <img src="README-assets/aditya-banner.png" alt="Aditya Chavan — Rails Developer Banner" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Ruby-2.6.3-red" />
   <img src="https://img.shields.io/badge/Rails-6.0.6-blue" />
+  <img src="https://img.shields.io/badge/Postman-Tested-%E2%9C%94-lightgrey" />
+  <img src="https://img.shields.io/badge/Vue.js-Integrated-green" />
+  <img src="https://img.shields.io/badge/CI/CD-Configured-blueviolet" />
 </p>
 
 ---
@@ -34,6 +41,13 @@
 
 ---
 
+### 🗺️ Dev Journey Roadmap
+
+
+Every repo is a milestone. Every commit reflects architecture, clarity, and intent.
+
+---
+
 ### 📚 About Me
 
 I'm a Rails developer who believes in **clarity through code and precision in support**.  
@@ -47,4 +61,4 @@ Thanks for visiting—let’s build something brilliant together ⚙️💡
 ### 📬 Connect
 
 - [LinkedIn](https://www.linkedin.com/in/aditya-atul-chavan-59bb06157)  
-- 🧾 Résumé available on request
+- 🧾 [Download Résumé](https://yourhostedlink.com/resume.pdf) <!-- Replace with actual link -->
