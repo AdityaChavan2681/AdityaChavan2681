@@ -2,7 +2,7 @@
 
 <p align="center">
 💬 Rails + Support = Systems That Scale with Empathy<br>
-🧠 Building clean architecture, documenting with purpose, and delivering beyond expectation
+🧠 Building clean architecture, documenting with purpose, and delivering beyond expectations
 </p>
 
 <p align="center">
