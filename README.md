@@ -17,7 +17,7 @@
 - 💼 **Client Projects (Private Repos)**  
   As a Junior Full Stack Developer, I’ve built and delivered production-grade Rails systems across domains:
   - `Litigation-Management`: Automating legal workflows for case tracking and compliance  
-  - `OHC`: Healthcare dashboard for distributed team coordination  
+  - `OHC`: Healthcare dashboard for distributed workforce  
   - `DPL-OHC`: Pharma operations platform with role-based user workflows  
 
 - 🔌 **API Labs**  
