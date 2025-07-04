@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Aditya — Support Engineer & Full Stack Rails Developer</h1>
+<h1 align="center">👋 Hi, I'm Aditya, A Support Engineer & Full Stack Rails Developer</h1>
 
 <p align="center">
 💬 Rails + Support = Systems That Scale with Empathy<br>
@@ -52,9 +52,9 @@ Every repo is a milestone. Every commit reflects architecture, clarity, and inte
 
 I'm a Support Engineer & Rails developer who believes in **clarity through code and precision in support**.  
 Every commit reflects a lesson in architecture, delivery, or user empathy.  
-I learn by building, documenting, and refining—and I’m always open to meaningful collaboration.
+I learn by building, documenting, and refining, I’m always open to meaningful collaboration.
 
-Thanks for visiting—let’s build something brilliant together ⚙️💡
+Thanks for visiting, let’s build something brilliant together ⚙️💡
 
 ---
 
