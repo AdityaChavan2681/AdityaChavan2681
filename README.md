@@ -50,7 +50,7 @@ Every repo is a milestone. Every commit reflects architecture, clarity, and inte
 
 ### 📚 About Me
 
-I'm a Rails developer who believes in **clarity through code and precision in support**.  
+I'm a Support Engineer & Rails developer who believes in **clarity through code and precision in support**.  
 Every commit reflects a lesson in architecture, delivery, or user empathy.  
 I learn by building, documenting, and refining—and I’m always open to meaningful collaboration.
 
