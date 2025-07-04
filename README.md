@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Ruby-2.6.3-red" />
   <img src="https://img.shields.io/badge/Rails-6.0.6-blue" />
-  <img src="https://img.shields.io/badge/Postman-Tested-%E2%9C%94-lightgrey" />
+  <img src="https://img.shields.io/badge/Postman-Tested-lightgrey" />
   <img src="https://img.shields.io/badge/Vue.js-Integrated-green" />
   <img src="https://img.shields.io/badge/CI/CD-Configured-blueviolet" />
 </p>
