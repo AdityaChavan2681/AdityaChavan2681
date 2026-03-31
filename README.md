@@ -2,7 +2,7 @@
 
 <p align="center">
 💬 Rails + Support = Systems That Scale with Clarity<br>
-🧠 To build clean architecture, document with purpose, and deliver beyond expectations
+🧠 The idea to build exceptional architecture, document it, and deliver beyond expectations
 </p>
 
 <p align="center">
