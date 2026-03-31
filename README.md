@@ -38,7 +38,7 @@
 
 ---
 
-### 🗺️ Dev Journey Roadmap
+### 🗺️ Dev Journey
 
 
 Every repo is a step. Every commit reflects thinking, clarity, and intent.
