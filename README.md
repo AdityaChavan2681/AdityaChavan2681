@@ -47,9 +47,8 @@ Every repo is a step. Every commit reflects thinking, clarity, and intent.
 
 ### 📚 About Me
 
-I have worked as a Support Engineer & Rails developer who believes in **clarity through code and understanding in support**.  
-Every project reflects the depth and ideas to go above, and beyond in architecture, delivery, or user empathy.  
-I learn by exploring, understanding, and establishing to hone my skills best as a Developer, I am always open to meaningful collaborations.
+I’ve worked as a Support Engineer and Rails developer, focusing on building structured systems and understanding real-world workflows.
+I learn by exploring, building, and refining my skills as a developer. I’m always open to meaningful collaboration.
 
 Thanks for visiting, let’s build something brilliant together ⚙️💡
 
