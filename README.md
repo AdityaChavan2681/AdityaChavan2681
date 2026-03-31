@@ -2,7 +2,7 @@
 
 <p align="center">
 💬 Rails + Support = Systems That Scale with Clarity<br>
-🧠 The idea to build exceptional architecture, document it, and deliver beyond expectations
+🧠 Building backend systems with Ruby on Rails and Node JS, focusing on simplified architecture, test APIs, and scale businesses.
 </p>
 
 <p align="center">
