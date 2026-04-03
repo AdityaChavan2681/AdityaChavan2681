@@ -5,7 +5,7 @@
 Node.js • Express • MongoDB • REST APIs<br>
 Ruby on Rails (Backend Development)<br><br>
 
-🧠 Building backend systems with Node.js and Ruby on Rails,<br>
+🧠 Backend developer building scalable APIs and real-world systems using Node.js and Ruby on Rails.<br>
 Focused on improving system design, backend architecture, and API performance through hands-on projects and real-world applications.
 
 ---
@@ -20,7 +20,7 @@ Focused on improving system design, backend architecture, and API performance th
 <p align="center">
   <!-- <img src="https://img.shields.io/badge/Ruby-2.6.3-red" />
   <img src="https://img.shields.io/badge/Rails-6.0.6-blue" /> -->
-  <img src="https://img.shields.io/badge/Postman-Tested-lightgrey" />
+  <!-- <img src="https://img.shields.io/badge/Postman-Tested-lightgrey" /> -->
   <!-- <img src="https://img.shields.io/badge/Vue.js-Integrated-green" /> -->
   <!-- <img src="https://img.shields.io/badge/CI/CD-Configured-blueviolet" /> -->
 </p>
@@ -48,7 +48,7 @@ Focused on improving system design, backend architecture, and API performance th
 
 ### 🗺️ Dev Journey
 
-Focused on improving system design, backend architecture, and API performance through hands-on projects and real-world applications.
+I design backend systems with clarity, scalability, and real-world use in mind.
 ---
 
 ### 📚 About Me
