@@ -1,17 +1,25 @@
-<h1 align="center">👋 Hi I'm Aditya, A Support Engineer & Full Stack Rails Developer</h1>
+<h1 align="center">👋 Hi I'm Aditya</h1>
 
 <p align="center">
-💬 Rails + Support = Systems That Scale with Clarity<br>
-🧠 Building backend systems with Ruby on Rails and Node JS, focusing on simplified architecture, test APIs, and scale businesses.
+💬 Backend Developer — Node.js & Rails<br>
+Node.js • Express • MongoDB • REST APIs<br>
+Ruby on Rails (Backend Development)<br><br>
+
+🧠 Building backend systems with Node.js and Ruby on Rails,<br>
+Focused on improving system design, backend architecture, and API performance through hands-on projects and real-world applications.
+
+---
 </p>
 
 <p align="center">
-  <img src="README-assets/aditya-banner.png" alt="Aditya Chavan — Rails Developer Banner" />
+  <img src="https://github.com/user-attachments/assets/88e7e03d-3c59-4ccc-a40e-0a940196502b" alt="Aditya Chavan — Rails Developer Banner" />
+  <!-- <img width="1512" height="1040" alt="ChatGPT Image Apr 3, 2026, 04_37_52 PM" src="https://github.com/user-attachments/assets/88e7e03d-3c59-4ccc-a40e-0a940196502b" /> -->
+
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Ruby-2.6.3-red" />
-  <img src="https://img.shields.io/badge/Rails-6.0.6-blue" />
+  <!-- <img src="https://img.shields.io/badge/Ruby-2.6.3-red" />
+  <img src="https://img.shields.io/badge/Rails-6.0.6-blue" /> -->
   <img src="https://img.shields.io/badge/Postman-Tested-lightgrey" />
   <img src="https://img.shields.io/badge/Vue.js-Integrated-green" />
   <img src="https://img.shields.io/badge/CI/CD-Configured-blueviolet" />
@@ -22,7 +30,7 @@
 ### 🔧 What I Built
 
 - 💼 **Client Projects (Private Repos)**  
-  As a Junior Full Stack Developer, I have built and delivered production-grade Rails systems across Healthcare domains such as:
+  As a Junior Full Stack Developer, I have built and contributed to real-world Rails systems across Healthcare domains such as:
   - `Litigation-Management`: Automating legal workflows for tracking cases and compliance  
   - `OHC`: Healthcare dashboard for distributed workforce  
   - `DPL-OHC`: Pharma operations platform with role-based user workflows  
@@ -40,15 +48,16 @@
 
 ### 🗺️ Dev Journey
 
-
-Every repository reflects progress in system design, clarity, and practical implementation.
-
+Focused on improving system design, backend architecture, and API performance through hands-on projects and real-world applications.
 ---
 
 ### 📚 About Me
 
-I’ve worked as a Support Engineer and Rails developer, focusing on building structured systems and understanding real-world workflows.
-I learn by exploring, building, and refining my skills as a developer. I’m always open to meaningful collaboration.
+I have experience as a Support Engineer and Rails developer, building structured backend systems and understanding real-world workflows.
+
+Currently focused on backend development with Node.js and scalable API design.
+
+Open to opportunities and collaboration.
 
 Thanks for visiting, let’s build something brilliant together ⚙️💡
 
