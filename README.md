@@ -1,18 +1,14 @@
-<h1 align="center">👋 Hi I'm Aditya</h1>
-
 <p align="center">
-💬 Backend Developer — Node.js & Rails<br>
-Node.js • Express • MongoDB • REST APIs<br>
-Ruby on Rails (Backend Development)<br><br>
+🚀 Backend Developer focused on scalable APIs & systems<br>
+Node.js • Express • MongoDB<br><br>
 
-🧠 Backend developer building scalable APIs and real-world systems using Node.js and Ruby on Rails.<br>
-Focused on improving system design, backend architecture, and API performance through hands-on projects and real-world applications.
+Building backend systems with clean architecture, scalable APIs, and real-world workflows.<br>
+Built backend systems from scratch using Ruby on Rails for healthcare and pharma platforms.<br><br>
 
----
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/88e7e03d-3c59-4ccc-a40e-0a940196502b" alt="Aditya Chavan — Rails Developer Banner" />
+  <img src="https://github.com/user-attachments/assets/88e7e03d-3c59-4ccc-a40e-0a940196502b" alt="Aditya Chavan — Backend Developer Banner" />
   <!-- <img width="1512" height="1040" alt="ChatGPT Image Apr 3, 2026, 04_37_52 PM" src="https://github.com/user-attachments/assets/88e7e03d-3c59-4ccc-a40e-0a940196502b" /> -->
 
 </p>
@@ -27,13 +23,33 @@ Focused on improving system design, backend architecture, and API performance th
 
 ---
 
-### 🔧 What I Built
+### ⚙️ Tech Stack
 
-- 💼 **Client Projects (Private Repos)**  
-  As a Junior Full Stack Developer, I have built and contributed to real-world Rails systems across Healthcare domains such as:
-  - `Litigation-Management`: Automating legal workflows for tracking cases and compliance  
-  - `OHC`: Healthcare dashboard for distributed workforce  
-  - `DPL-OHC`: Pharma operations platform with role-based user workflows  
+**Backend:** Node.js, Express, Ruby on Rails  
+**Database:** MongoDB, PostgreSQL  
+**API:** REST APIs  
+**Tools:** Git, GitHub, Postman
+
+### 🔧 Featured Work
+
+#### 💼 Backend Systems (Healthcare & Pharma)
+
+Built backend systems from scratch using Ruby on Rails for real-world healthcare platforms:
+
+- Designed MVC architecture and application structure  
+- Developed REST APIs and implemented full CRUD workflows  
+- Integrated PostgreSQL using ActiveRecord for data modeling  
+- Built admin modules for managing users, records, and workflows  
+- Implemented role-based access control and structured data handling  
+- Developed import/export functionality using CSV  
+- Implemented pagination (Kaminari) and complex nested forms (Cocoon)  
+- Built server-side logic for generating structured printable documents  
+
+### 💡 Worked on real-world healthcare and pharma systems including:
+
+- Litigation Management System — legal workflow tracking and compliance  
+- OHC — healthcare dashboard for distributed workforce  
+- DPL-OHC — pharma operations platform with role-based workflows  
 
 - 🔌 **API**  
   [`Messages API`](https://github.com/AdityaChavan2681/Messages-api) • [`Secret Menu`](https://github.com/AdityaChavan2681/Secret-menu-api) • [`Bands API`](https://github.com/AdityaChavan2681/Bands-Api)
@@ -46,20 +62,15 @@ Focused on improving system design, backend architecture, and API performance th
 
 ---
 
-### 🗺️ Dev Journey
-
-I design backend systems with clarity, scalability, and real-world use in mind.
----
-
 ### 📚 About Me
 
-I have experience as a Support Engineer and Rails developer, building structured backend systems and understanding real-world workflows.
+I started as a Ruby on Rails developer building backend systems from scratch for healthcare and pharma platforms, gaining strong experience in system design and real-world workflows.
 
-Currently focused on backend development with Node.js and scalable API design.
+Now, I focus on Node.js to build APIs with clean architecture and performance in mind.
 
-Open to opportunities and collaboration.
+I enjoy solving backend problems and continuously improving my system design skills.
 
-Thanks for visiting, let’s build something brilliant together ⚙️💡
+💡 Actively building and iterating on backend systems with consistent commits and feature development.
 
 ---
 
