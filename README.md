@@ -1,14 +1,16 @@
 <p align="center">
-🚀 Backend Developer focused on scalable APIs & systems<br>
+🚀 Backend Developer building scalable APIs and full CRUD systems<br>
+📍 Pune, India • Open to Backend / Full-Stack Roles<br>
 Node.js • Express • MongoDB<br><br>
 
-Building backend systems with clean architecture, scalable APIs, and real-world workflows.<br>
-Built backend systems from scratch using Ruby on Rails for healthcare and pharma platforms.<br><br>
+💡 Built full CRUD backend system with MongoDB, tested via Postman<br><br>
 
+Building backend systems with clean architecture, scalable APIs, and practical development workflows.<br>
+I have built backend systems from scratch using Ruby on Rails for healthcare and pharma platforms, and have worked on integrating frontend components and fixing issues in existing full-stack applications.<br><br>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/88e7e03d-3c59-4ccc-a40e-0a940196502b" alt="Aditya Chavan — Backend Developer Banner" />
+  <img src="https://github.com/user-attachments/assets/88e7e03d-3c59-4ccc-a40e-0a940196502b" alt="Aditya Chavan - Backend Developer Banner" />
   <!-- <img width="1512" height="1040" alt="ChatGPT Image Apr 3, 2026, 04_37_52 PM" src="https://github.com/user-attachments/assets/88e7e03d-3c59-4ccc-a40e-0a940196502b" /> -->
 
 </p>
@@ -45,32 +47,41 @@ Built backend systems from scratch using Ruby on Rails for real-world healthcare
 - Implemented pagination (Kaminari) and complex nested forms (Cocoon)  
 - Built server-side logic for generating structured printable documents  
 
-### 💡 Worked on real-world healthcare and pharma systems including:
+#### 💡 Work Projects
 
-- Litigation Management System — legal workflow tracking and compliance  
-- OHC — healthcare dashboard for distributed workforce  
-- DPL-OHC — pharma operations platform with role-based workflows  
+- Litigation Management System - legal workflow tracking and compliance  
+- OHC - healthcare dashboard for distributed workforce  
+- DPL-OHC - pharma operations platform with role-based workflows  
 
-- 🔌 **API**  
-  [`Messages API`](https://github.com/AdityaChavan2681/Messages-api) • [`Secret Menu`](https://github.com/AdityaChavan2681/Secret-menu-api) • [`Bands API`](https://github.com/AdityaChavan2681/Bands-Api)
+### 🔧 Featured Project
 
-- ⚙️ **DevOps Testing**  
-  [`CI-CD Testable`](https://github.com/AdityaChavan2681/CI-CD-Testable) • [`AWS Test`](https://github.com/AdityaChavan2681/AWS-Test) • [`Typing Redirect`](https://github.com/AdityaChavan2681/typing-redirect)
+#### 🧠 My Archive - Backend System
 
-- 📘 **Core Rails Projects**  
-  [`Alpha Blog`](https://github.com/AdityaChavan2681/alpha-blog) • [`Library App`](https://github.com/AdityaChavan2681/Library-App) • [`Ruby Basics`](https://github.com/AdityaChavan2681/Ruby-basics)
+A backend-driven system for structuring and managing historical data.
+
+- Designed REST APIs with full CRUD functionality  
+- Implemented MongoDB with Mongoose for data persistence  
+- Built pagination, filtering, and search at database level  
+- Developed and tested endpoints using Postman  
+- Structured backend using controllers, routes, and models  
+
+🔗 [View Repository](https://github.com/AdityaChavan2681/My-Archive)
 
 ---
 
+### 🚀 Current Focus
+
+- Building backend systems using Node.js and MongoDB  
+- Designing scalable APIs with pagination, filtering, and search  
+- Strengthening problem-solving and system design skills through hands-on projects  
+
 ### 📚 About Me
 
-I started as a Ruby on Rails developer building backend systems from scratch for healthcare and pharma platforms, gaining strong experience in system design and real-world workflows.
+I started as a Ruby on Rails developer building full stack client projects including frontend and backend systems from scratch for healthcare and pharma platforms, and gained strong experience in system design to build efficient web applications.
 
-Now, I focus on Node.js to build APIs with clean architecture and performance in mind.
+Currently, I focus on Node.js to build APIs with system architecture and performance in mind, while strengthening my understanding of backend structures.
 
-I enjoy solving backend problems and continuously improving my system design skills.
-
-💡 Actively building and iterating on backend systems with consistent commits and feature development.
+I enjoy solving backend problems and also contributing to frontend integration when required, while continuously improving my system design skills.
 
 ---
 
