@@ -6,7 +6,7 @@ Node.js • Express • MongoDB<br><br>
 💼 ~1 year experience building backend systems using Ruby on Rails<br><br>
 
 Building backend systems with clean architecture, scalable APIs, and efficient data handling.<br>
-I have built backend systems from scratch using Ruby on Rails for healthcare and pharma platforms, and have worked on integrating frontend components and fixing issues in existing full-stack applications.<br><br>
+Built backend systems from scratch using Ruby on Rails for healthcare and pharma platforms, including frontend integration and bug resolution in existing full-stack applications.<br><br>
 </p>
 
 <p align="center">
@@ -58,7 +58,7 @@ Built backend systems from scratch using Ruby on Rails for real-world healthcare
 
 - Litigation Management System - legal workflow tracking and compliance  
 - Occupational Health Center - healthcare dashboard for distributed workforce  
-- Pharma Operations Platform - pharma operations platform with role-based workflows 
+- Pharma Operations Platform - role-based workflows and structured data management
 
 ### 🔧 Featured Project
 
