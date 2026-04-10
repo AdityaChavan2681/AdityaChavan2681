@@ -1,6 +1,5 @@
 <p align="center">
 🚀 Backend Developer building scalable APIs and full CRUD systems<br>
-📍 Pune, India • Open to Backend / Full-Stack Roles<br>
 Node.js • Express • MongoDB<br><br>
 
 💼 ~1 year experience building backend systems using Ruby on Rails<br><br>
