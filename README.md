@@ -3,9 +3,9 @@
 📍 Pune, India • Open to Backend / Full-Stack Roles<br>
 Node.js • Express • MongoDB<br><br>
 
-💡 Built full CRUD backend system with MongoDB, tested via Postman<br><br>
+💼 ~1 year experience building backend systems using Ruby on Rails<br><br>
 
-Building backend systems with clean architecture, scalable APIs, and practical development workflows.<br>
+Building backend systems with clean architecture, scalable APIs, and efficient data handling.<br>
 I have built backend systems from scratch using Ruby on Rails for healthcare and pharma platforms, and have worked on integrating frontend components and fixing issues in existing full-stack applications.<br><br>
 </p>
 
@@ -41,17 +41,24 @@ Built backend systems from scratch using Ruby on Rails for real-world healthcare
 - Designed MVC architecture and application structure  
 - Developed REST APIs and implemented full CRUD workflows  
 - Integrated PostgreSQL using ActiveRecord for data modeling  
-- Built admin modules for managing users, records, and workflows  
-- Implemented role-based access control and structured data handling  
-- Developed import/export functionality using CSV  
-- Implemented pagination (Kaminari) and complex nested forms (Cocoon)  
+
+- Built admin dashboards for managing users, records, and workflows  
+- Implemented authentication and role-based access control  
+
+- Developed search, filtering, and pagination for large datasets  
+- Built structured forms and handled complex user input  
+
+- Implemented import/export functionality using CSV  
 - Built server-side logic for generating structured printable documents  
+
+- Contributed to frontend integration and resolved bugs in existing full-stack systems
+- Worked primarily in development and testing environments, contributing to feature development, system improvements, and bug fixes in existing applications.
 
 #### 💡 Work Projects
 
 - Litigation Management System - legal workflow tracking and compliance  
-- OHC - healthcare dashboard for distributed workforce  
-- DPL-OHC - pharma operations platform with role-based workflows  
+- Occupational Health Center - healthcare dashboard for distributed workforce  
+- Pharma Operations Platform - pharma operations platform with role-based workflows 
 
 ### 🔧 Featured Project
 
@@ -73,13 +80,13 @@ A backend-driven system for structuring and managing historical data.
 
 - Building backend systems using Node.js and MongoDB  
 - Designing scalable APIs with pagination, filtering, and search  
-- Strengthening problem-solving and system design skills through hands-on projects  
+- Improving system design and backend architecture through hands-on projects
 
 ### 📚 About Me
 
 I started as a Ruby on Rails developer building full stack client projects including frontend and backend systems from scratch for healthcare and pharma platforms, and gained strong experience in system design to build efficient web applications.
 
-Currently, I focus on Node.js to build APIs with system architecture and performance in mind, while strengthening my understanding of backend structures.
+Currently, I focus on Node.js to build APIs with system architecture and performance in mind, while strengthening my understanding of backend architecture and system design.
 
 I enjoy solving backend problems and also contributing to frontend integration when required, while continuously improving my system design skills.
 
