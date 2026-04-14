@@ -1,11 +1,11 @@
 <p align="center">
-🚀 Backend Developer building scalable APIs and full CRUD systems<br>
-Node.js • Express • MongoDB<br><br>
+Backend-focused Full Stack Developer building scalable web applications and integrated CRUD systems<br>
+Node.js • Express • React • MongoDB • Ruby on Rails<br><br>
 
-💼 ~1 year experience building backend systems using Ruby on Rails<br><br>
+Around 1 year of experience building full-stack systems using Ruby on Rails<br><br>
 
-Building backend systems with clean architecture, scalable APIs, and efficient data handling.<br>
-Built backend systems from scratch using Ruby on Rails for healthcare and pharma platforms, including frontend integration and bug resolution in existing full-stack applications.<br><br>
+Building applications with clean backend architecture, structured APIs, database-driven workflows, and practical frontend integration.<br>
+Built full-stack systems for healthcare and pharma platforms, including admin dashboards, forms, API workflows, and frontend bug resolution in existing applications.<br><br>
 </p>
 
 <p align="center">
@@ -26,16 +26,17 @@ Built backend systems from scratch using Ruby on Rails for healthcare and pharma
 
 ### ⚙️ Tech Stack
 
+**Frontend:** React, JavaScript, HTML, CSS  
 **Backend:** Node.js, Express, Ruby on Rails  
 **Database:** MongoDB, PostgreSQL  
 **API:** REST APIs  
-**Tools:** Git, GitHub, Postman
+**Tools:** Git, GitHub, Postman, Vite
 
 ### 🔧 Featured Work
 
-#### 💼 Backend Systems (Healthcare & Pharma)
+#### 💼 Full Stack Systems (Healthcare & Pharma)
 
-Built backend systems from scratch using Ruby on Rails for real-world healthcare platforms:
+Built full-stack systems using Ruby on Rails for real-world healthcare platforms:
 
 - Designed MVC architecture and application structure  
 - Developed REST APIs and implemented full CRUD workflows  
@@ -56,20 +57,20 @@ Built backend systems from scratch using Ruby on Rails for real-world healthcare
 #### 💡 Work Projects
 
 - Litigation Management System - legal workflow tracking and compliance  
-- Occupational Health Center - healthcare dashboard for distributed workforce  
-- Pharma Operations Platform - role-based workflows and structured data management
+- Occupational Health Center - role-based workflows and structured data management
 
 ### 🔧 Featured Project
 
-#### 🧠 My Archive - Backend System
+#### 🧠 My Archive - Full Stack Archive Platform
 
-A backend-driven system for structuring and managing historical data.
+A backend-first full-stack project for structuring and exploring historical archive data.
 
 - Designed REST APIs with full CRUD functionality  
 - Implemented MongoDB with Mongoose for data persistence  
 - Built pagination, filtering, and search at database level  
-- Developed and tested endpoints using Postman  
-- Structured backend using controllers, routes, and models  
+- Added protected authentication flows using JWT and bcrypt  
+- Integrated admin archive creation workflow with backend API and MongoDB persistence  
+- Structured the application into backend APIs, admin workflows, and user-facing archive views
 
 🔗 [View Repository](https://github.com/AdityaChavan2681/My-Archive)
 
@@ -77,17 +78,17 @@ A backend-driven system for structuring and managing historical data.
 
 ### 🚀 Current Focus
 
-- Building backend systems using Node.js and MongoDB  
-- Designing scalable APIs with pagination, filtering, and search  
-- Improving system design and backend architecture through hands-on projects
+- Building backend-focused full-stack applications using Node.js, React, and MongoDB  
+- Designing scalable APIs with pagination, filtering, search, and protected workflows  
+- Strengthening frontend-backend integration through admin and user-facing application flows  
 
 ### 📚 About Me
 
-I started as a Ruby on Rails developer building full stack client projects including frontend and backend systems from scratch for healthcare and pharma platforms, and gained strong experience in system design to build efficient web applications.
+I started as a Ruby on Rails developer building full-stack client projects across frontend and backend systems, where I worked on CRUD workflows, admin dashboards, structured forms, API integrations, and production bug fixes.
 
-Currently, I focus on Node.js to build APIs with system architecture and performance in mind, while strengthening my understanding of backend architecture and system design.
+Currently, I’m building Node.js, Express, React, and MongoDB applications with a backend-first approach while strengthening my frontend integration skills through hands-on project work.
 
-I enjoy solving backend problems and also contributing to frontend integration when required, while continuously improving my system design skills.
+I enjoy understanding how systems work end to end, from request flow and database operations to the UI behavior that depends on them.
 
 ---
 
