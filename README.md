@@ -2,10 +2,9 @@
 Backend-focused Full Stack Developer building scalable web applications and integrated CRUD systems<br>
 Node.js • Express • React • MongoDB • Ruby on Rails<br><br>
 
-Around 1 year of experience building full-stack systems using Ruby on Rails<br><br>
+Around 1 year of experience building full-stack systems using Ruby on Rails, now focused on backend development with the MERN stack.<br><br>
 
-Building applications with clean backend architecture, structured APIs, database-driven workflows, and practical frontend integration.<br>
-Built full-stack systems for healthcare and pharma platforms, including admin dashboards, forms, API workflows, and frontend bug resolution in existing applications.<br><br>
+Focused on backend architecture, API design, authentication workflows, and database-driven applications with practical frontend integration.<br>
 </p>
 
 <p align="center">
@@ -63,7 +62,7 @@ Built full-stack systems using Ruby on Rails for real-world healthcare platforms
 
 #### 🧠 My Archive - Full Stack Archive Platform
 
-A backend-first full-stack project for structuring and exploring historical archive data.
+A backend-first MERN application designed to demonstrate API design, authentication, validation, and scalable data workflows.
 
 - Designed REST APIs with full CRUD functionality  
 - Implemented MongoDB with Mongoose for data persistence  
@@ -78,9 +77,9 @@ A backend-first full-stack project for structuring and exploring historical arch
 
 ### 🚀 Current Focus
 
-- Building backend-focused full-stack applications using Node.js, React, and MongoDB  
-- Designing scalable APIs with pagination, filtering, search, and protected workflows  
-- Strengthening frontend-backend integration through admin and user-facing application flows  
+- Building backend-focused applications using Node.js, Express, and MongoDB  
+- Designing scalable REST APIs with authentication, validation, and data workflows  
+- Strengthening frontend integration through React-based admin and user interfaces  
 
 ### 📚 About Me
 
