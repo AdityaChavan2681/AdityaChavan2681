@@ -1,5 +1,6 @@
 <p align="center">
-Backend-focused Full Stack Developer building scalable web applications and integrated CRUD systems<br>
+Backend-focused Full Stack Developer building scalable APIs, data pipelines, and AI-integrated workflows<br>
+  
 Node.js • Express • React • MongoDB • Ruby on Rails<br><br>
 
 Around 1 year of experience building full-stack systems using Ruby on Rails, now focused on backend development with the MERN stack.<br><br>
@@ -59,6 +60,18 @@ Built full-stack systems using Ruby on Rails for real-world healthcare platforms
 - Occupational Health Center - role-based workflows and structured data management
 
 ### 🔧 Featured Project
+
+### 🤖 Partnership Intelligence Workflow (AI + Data Pipeline)
+
+A backend workflow system designed to process unstructured partnership signals and convert them into structured, actionable data.
+
+- Built multi-step pipeline using n8n for input validation, AI classification, and structured processing  
+- Used LLMs with controlled prompts for extracting signal type, market signal, and priority  
+- Implemented normalization and fallback logic to handle inconsistent AI outputs  
+- Designed rule-based enrichment to derive business fields like readiness and decision-maker relevance  
+- Stored structured outputs in Airtable for downstream usage 
+
+🔗 [View Repository](https://github.com/AdityaChavan2681/partnership-intelligence-workflow)
 
 #### 🧠 My Archive - Full Stack Archive Platform
 
