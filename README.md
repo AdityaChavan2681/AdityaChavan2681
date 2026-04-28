@@ -1,12 +1,12 @@
 <p align="center">
-Backend-focused Full Stack Developer building scalable APIs, data pipelines, and AI-integrated workflows<br>
-  
-Node.js • Express • React • MongoDB • Ruby on Rails<br><br>
+  Backend & AI Automation Developer building APIs, data pipelines, n8n workflows, and LLM-integrated systems<br>
 
-Around 1 year of experience building full-stack systems using Ruby on Rails, now focused on backend development with the MERN stack.<br><br>
+  n8n • APIs • Airtable • MongoDB • Node.js • Express • Ruby on Rails<br><br>
 
-Focused on backend architecture, API design, authentication workflows, and database-driven applications with practical frontend integration.<br>
-</p>
+  Hands-on experience building backend systems, automation workflows, and structured data pipelines across Rails, MERN, and AI workflow projects.<br><br>
+
+  Focused on backend architecture, API integrations, workflow automation, structured data validation, and AI-assisted classification systems.<br>
+  </p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/88e7e03d-3c59-4ccc-a40e-0a940196502b" alt="Aditya Chavan - Backend Developer Banner" />
@@ -26,11 +26,12 @@ Focused on backend architecture, API design, authentication workflows, and datab
 
 ### ⚙️ Tech Stack
 
-**Frontend:** React, JavaScript, HTML, CSS  
-**Backend:** Node.js, Express, Ruby on Rails  
-**Database:** MongoDB, PostgreSQL  
-**API:** REST APIs  
-**Tools:** Git, GitHub, Postman, Vite
+  **Frontend:** React, JavaScript, HTML, CSS
+  **Backend:** Node.js, Express, Ruby on Rails
+  **Database:** MongoDB, PostgreSQL
+  **API:** REST APIs
+  **AI & Automation:** n8n, Airtable, LLM workflows, prompt engineering
+  **Tools:** Git, GitHub, Postman, Vite
 
 ### 🔧 Featured Work
 
@@ -65,11 +66,11 @@ Built full-stack systems using Ruby on Rails for real-world healthcare platforms
 
 A backend workflow system designed to process unstructured partnership signals and convert them into structured, actionable data.
 
-- Built multi-step pipeline using n8n for input validation, AI classification, and structured processing  
-- Used LLMs with controlled prompts for extracting signal type, market signal, and priority  
-- Implemented normalization and fallback logic to handle inconsistent AI outputs  
-- Designed rule-based enrichment to derive business fields like readiness and decision-maker relevance  
-- Stored structured outputs in Airtable for downstream usage 
+- Built an n8n workflow that starts from a brand website URL, discovers internal pages, filters low-value URLs, and classifies selected pages with LLMs
+- Added structured output validation, normalization, fallback handling, and page-level sponsor-fit scoring
+- Stored page-level evidence and aggregate brand assessments in MongoDB
+- Sent review-ready company assessments to Airtable for prioritization and outreach review
+- Added retry handling and staggered waits for more reliable LLM classification under provider rate limits
 
 🔗 [View Repository](https://github.com/AdityaChavan2681/partnership-intelligence-workflow)
 
@@ -90,9 +91,9 @@ A backend-first MERN application designed to demonstrate API design, authenticat
 
 ### 🚀 Current Focus
 
-- Building backend-focused applications using Node.js, Express, and MongoDB  
-- Designing scalable REST APIs with authentication, validation, and data workflows  
-- Strengthening frontend integration through React-based admin and user interfaces  
+- Building n8n-based AI automation workflows with LLM classification, validation, and structured outputs
+- Designing backend pipelines using APIs, MongoDB, Airtable, and workflow automation tools
+- Improving workflow reliability through batching, retries, fallback handling, and rate-limit-aware execution  
 
 ### 📚 About Me
 
