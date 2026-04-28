@@ -9,7 +9,7 @@
   </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/88e7e03d-3c59-4ccc-a40e-0a940196502b" alt="Aditya Chavan - Backend Developer Banner" />
+  <img width="1774" height="887" alt="GitHub_Profile_Banner_AI_Automation" src="https://github.com/user-attachments/assets/236f433a-7732-4110-9c9f-2cc583eba07e" />
   <!-- <img width="1512" height="1040" alt="ChatGPT Image Apr 3, 2026, 04_37_52 PM" src="https://github.com/user-attachments/assets/88e7e03d-3c59-4ccc-a40e-0a940196502b" /> -->
 
 </p>
